@@ -1,4 +1,4 @@
-The files contained in this directory allow reproducing the main results corresponding to the second case study (Greater London Area) described in the paper **"A Bayesian shared-effects modeling framework to quantify the modifiable areal unit problem"**. They could be easily adapted to test the methodology with a different dataset.
+The files contained in this directory allow reproducing the main results corresponding to the second case study (Greater London Area) described in the paper **"A Bayesian shared-effects modeling framework to quantify the modifiable areal unit problem"**, published in *Spatial Statistics* (https://www.sciencedirect.com/science/article/pii/S2211675322000537). They could be easily adapted to test the methodology with a different dataset.
 
 The subdirectory Data contains the data (response variable and covariates) considered for the analysis ("data_london.rda"). This dataset was constructed from public data available in the London Datastore (https://data.london.gov.uk/).
 
